@@ -8,6 +8,6 @@
 2. Run the install Wizard
 3. Check it has installed by running `node -v` in your cli
 
-**Install dependencies**
+**Install project dependencies**
 1. Navigate to the `spaceinvaders` project directory in your cli
 2. Install the project dependencies by running `npm install`
