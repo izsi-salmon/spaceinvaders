@@ -1,4 +1,4 @@
-# spaceinvaders
+# Space Invaders
 
 ## Project set up
 
