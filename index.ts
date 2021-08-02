@@ -18,4 +18,6 @@ import {UserInterface} from "./views";
 const game = new Game();
 const ui = new UserInterface(game);
 
-const App = new Application(console, game, ui);
+const App = new Application(game, ui);
+
+App.StartGame();
