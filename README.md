@@ -1,5 +1,3 @@
-# Space Invaders
-
 ## Project set up
 
 **Install node.js**
